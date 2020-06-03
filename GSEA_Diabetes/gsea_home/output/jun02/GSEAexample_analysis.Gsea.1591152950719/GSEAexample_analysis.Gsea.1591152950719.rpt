@@ -1,0 +1,33 @@
+producer_class	xtools.gsea.Gsea
+producer_timestamp	1591152950719
+param	zip_report	false
+param	num	100
+param	scoring_scheme	weighted
+param	norm	meandiv
+param	out	/Users/xiaonili/gsea_home/output/jun02
+param	mode	Max_probe
+param	include_only_symbols	true
+param	set_max	500
+param	gmx	ftp.broadinstitute.org://pub/gsea/gene_sets/c5.all.v7.1.symbols.gmt
+param	plot_top_x	20
+param	nperm	1000
+param	order	descending
+param	rpt_label	GSEAexample_analysis
+param	rnd_seed	timestamp
+param	set_min	15
+param	res	/Users/xiaonili/Desktop/GSEA_Diabetes/Diabetes_collapsed_symbols.gct
+param	create_svgs	false
+param	cls	/Users/xiaonili/Desktop/GSEA_Diabetes/Diabetes.cls#NGT_versus_DMT
+param	sort	real
+param	create_gcts	false
+param	help	false
+param	save_rnd_lists	false
+param	median	false
+param	metric	Signal2Noise
+param	make_sets	true
+param	rnd_type	no_balance
+param	gui	false
+param	permute	phenotype
+param	collapse	No_Collapse
+
+file	/Users/xiaonili/gsea_home/output/jun02/GSEAexample_analysis.Gsea.1591152950719/index.html

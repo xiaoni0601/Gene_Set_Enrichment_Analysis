@@ -1,0 +1,4 @@
+/Users/xiaonili/Desktop/GSEA_Diabetes/Diabetes.cls
+/Users/xiaonili/Desktop/GSEA_Diabetes/Diabetes_hgu133a.gct
+/Users/xiaonili/Desktop/GSEA_Diabetes/Diabetes_collapsed_symbols.gct
+/Users/xiaonili/Desktop/GSEA_Diabetes/c5.all.v7.1.symbols.gmt
